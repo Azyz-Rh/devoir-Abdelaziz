@@ -1,0 +1,19 @@
+body {
+    font-family: monospace;
+    font-weight: bold;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+#pg {
+    color: cornflowerblue;
+}
+.ftr {
+    color: black ;
+    background-color: grey ;
+    padding: 20px;
+    text-align: center;
+    color: aqua;
+    border-radius: 20px;
+}
